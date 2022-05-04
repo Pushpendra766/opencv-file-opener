@@ -1,5 +1,7 @@
 # Open and transfer file using hand gesture
 Note:- This is a bit of weired project and not much of practical use but it is fun to use.
+Note:- I have used code for tracking hand from https://github.com/kinivi/hand-gesture-recognition-mediapipe and used my own code for opening closing and transferring file.
+
 Make sure you have camera in your computer.
 
 Just run app.py in your system.
